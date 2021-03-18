@@ -5,7 +5,7 @@ public class SumofString {
 		String s="123";
 		String s1="100";
 
-		int out = (Integer.valueOf(s))+(Integer.valueOf(s1));
+		int out = Integer.valueOf(s)+Integer.valueOf(s1);
 		System.out.println(out);
 	}
 }
