@@ -7,7 +7,7 @@ package String_prog;
  */
 public class FindTheLeastLengthInString {
 	public static void main(String[] args) {
-		String s="a welcome to india ";
+		String s="welcome to india a ";
 		//Split the string into string array
 		String[] sp = s.split(" ");
 		//store the first value in to variable
