@@ -17,7 +17,6 @@ public class SumOfArrayForDiffLength {
 			for (int i = 0; i < a.length; i++) {
 				c[i]=a[i]+b[i];
 				System.out.println(c[i]);
-
 			}
 			
 		// logic id array ais greater
