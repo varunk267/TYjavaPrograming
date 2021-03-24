@@ -1,5 +1,7 @@
 package Array_Prog;
 
+import java.lang.reflect.Method;
+
 public class SumOfArrayForDiffLengthTryCatch {
 
 	public static void main(String[] args) throws Throwable {
